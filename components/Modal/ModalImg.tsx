@@ -70,3 +70,4 @@ const ModalImg = ({ children, open, setOpen }: ModalProps) => {
 };
 
 export default ModalImg;
+//fix

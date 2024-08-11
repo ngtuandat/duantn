@@ -81,3 +81,4 @@ const Modal = ({ children, open, setOpen, title, classClose }: ModalProps) => {
 };
 
 export default Modal;
+//fix

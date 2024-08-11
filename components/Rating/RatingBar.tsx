@@ -14,3 +14,4 @@ const RatingBar = ({ percent }: { percent: number }) => {
 };
 
 export default RatingBar;
+//fix
