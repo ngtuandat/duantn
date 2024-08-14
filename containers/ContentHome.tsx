@@ -194,7 +194,7 @@ const ContentHome = () => {
             variants={iconVariants}
             initial="closed"
             animate={openSearch ? "open" : "closed"}
-            transition={{ duration: 0.3 }} // Thay đổi thời gian animation nếu cần
+            transition={{ duration: 0.3 }}
           >
             <IoSearch size={26} />
           </motion.div>
